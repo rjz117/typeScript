@@ -73,7 +73,7 @@ main('ravirajsinh', 'ravirajsinh',calculationFun)
 
 
 5) find the difference of Bulebird promise and javascript promise.
-
+the BlueBird promise have better performacnce than native js promise and are more memory efficient. 
 
 
 6) Bluebird (want to do 100 req , perform the requests in the size of 10,10,10 asyncronously and in the batch of 10 reqest all the reqeust should be performed in syncronously mode(like complete 1, after 2, after 3,....,end 10)). solution should be scallable means for any number of request it should work."
